@@ -31,4 +31,18 @@ date_format = "Jan 2006"
   * Seismic Evaluation
   * ...
   """
+[[experience]]
+  title = "Student"
+  company = "Tongji University"
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2017-09"
+  date_end = ""
+  description = """
+  Research include:
+  
+  * Self-Centering Structure
+  * Seismic Evaluation
+  * ...
+
 +++
