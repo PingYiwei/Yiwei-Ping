@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a student in Tongji University and studying for Phd. My reasearch includes steel structure design, self-centering structure and seismic  evaluation.
+I am a student in Tongji University and studying for Phd. My reasearch includes steel structure design, self-centering structure and seismic evaluation.
 
 Except my research, I am also interested in computer hardware, technology and machine learning. I may devote myself to the interdisciplinary development of computer technology and structure engineering in the future.
