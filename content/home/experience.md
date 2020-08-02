@@ -29,20 +29,20 @@ date_format = "Jan 2006"
   
   * Self-Centering Structure
   * Seismic Evaluation
-  * ...
   """
 [[experience]]
-  title = "Student"
-  company = "Tongji University"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Shanghai"
-  date_start = "2017-09"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
-  Research include:
+  Responsibilities include:
   
-  * Self-Centering Structure
-  * Seismic Evaluation
-  * ...
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 +++
