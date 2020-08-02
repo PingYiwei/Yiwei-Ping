@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Structral Engineering or Computer Technology.
 
 interests:
 - Steel Structure
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Structure Engineering
+  - course: PhD in Structural Engineering
     institution: Tongji University
     year: 2017~Now
   - course: B.E. in Civil Engineering
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a student in Tongji University and studying for Phd. My reasearch includes steel structure design, self-centering structure 安and seismic  evaluation.
+I am a student in Tongji University and studying for Phd. My reasearch includes steel structure design, self-centering structure and seismic  evaluation.
 
-Except my reasearch, I am also interested in computer hardware, technology and machine learning. I may devote myself to the interdisciplinary development of computer technology and structure engineering in the future.
+Except my research, I am also interested in computer hardware, technology and machine learning. I may devote myself to the interdisciplinary development of computer technology and structure engineering in the future.
