@@ -1,6 +1,7 @@
 ---
 title: My Fisrt Post
 data: 2020-08-02
+math: true
 
 # View.
 #   1 = List
